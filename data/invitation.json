@@ -2,132 +2,132 @@
     {
         "id": "1",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/1.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/1.jpg"
     },
     {
         "id": "2",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/22.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/22.jpg"
     },
     {
         "id": "3",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/34.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/34.jpg"
     },
     {
         "id": "4",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/4.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/4.jpg"
     },
     {
         "id": "5",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/444.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/444.jpg"
 
     },
     {
         "id": "6",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/55.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/55.jpg"
     },
     {
         "id": "7",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/101.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/101.jpg"
     },
     {
         "id": "8",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/66.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/66.jpg"
     },
     {
         "id": "9",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/67.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/67.jpg"
     },
     {
         "id": "10",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/78.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/78.jpg"
     },
     {
         "id": "11",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/חדש.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/חדש.jpg"
     },
     {
         "id": "12",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/WoefulRose_[DesktopNexus.com].jpg"
+        "img": "../assest/pictures/רקעים מעודכן/WoefulRose_[DesktopNexus.com].jpg"
     },
     {
         "id": "13",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/ז.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/ז.jpg"
     },
     {
         "id": "14",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/זזז.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/זזז.jpg"
     },
     {
         "id": "15",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/רקע עם איור כוכבים.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/רקע עם איור כוכבים.jpg"
     },
     {
         "id": "16",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/רררר.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/רררר.jpg"
     },
     {
         "id": "17",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/ררררררררררר.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/ררררררררררר.jpg"
     },
     {
         "id": "18",
         "type": "width",
-        "img": "./pictures/רקעים מעודכן/10.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/10.jpg"
     },
     {
         "id": "20",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/12.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/12.jpg"
     },
     {
         "id": "21",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/89.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/89.jpg"
     },
     {
         "id": "22",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/9.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/9.jpg"
     },
     {
         "id": "23",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/חלק.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/חלק.jpg"
     },
     {
         "id": "24",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/עלים.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/עלים.jpg"
     },
     {
         "id": "25",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/103jpg.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/103jpg.jpg"
     },
     {
         "id": "26",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/44.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/44.jpg"
     },
     {
         "id": "27",
         "type": "height",
-        "img": "./pictures/רקעים מעודכן/780.jpg"
+        "img": "../assest/pictures/רקעים מעודכן/780.jpg"
     }
 ]

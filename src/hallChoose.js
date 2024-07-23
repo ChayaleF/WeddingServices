@@ -5,7 +5,7 @@ const loadPictures = () => {
     let p = $.ajax({
       
         method: 'GET',
-        url: './halls.json',
+        url: '../data/halls.json',
         
         success: (data) => {
             printPictures(data);

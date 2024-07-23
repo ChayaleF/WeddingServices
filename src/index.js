@@ -1,59 +1,6 @@
-// let w=document.getElementById('w');
-// window.addEventListener("load",()=>{
-//     music.play();
-// });
 
-
-const prevUrl="home.html";
+const prevUrl="index.html";
 sessionStorage.setItem('prevUrl',prevUrl);
-
-// const user= sessionStorage.getItem('user');
-// if(user!=null)
-// {
-//     let conect=document.getElementById('pr');
-   
-//     conect.innerText=user; 
-// }
-// function uploadImage() {
-//   const fileInput = document.getElementById('imageUpload');
-//   const file = fileInput.files[0];
-//   const formData = new FormData();
-//   formData.append('image', file);
-
-  // You can use AJAX or fetch to send the image data to the server
-  // Here is an example using fetch with a POST request
-//   fetch('/json.json', {
-//     method: 'POST',
-//     body: formData
-//   })
-//   .then(response => {
-//     if (response.ok) {
-//       // Image uploaded successfully
-//       console.log('Image uploaded!');
-//     } else {
-//       // Error occurred while uploading the image
-//       console.error('Image upload failed.');
-//     }g
-//   })
-//   .catch(error => {
-//     console.error('Error:', error);
-//   });
-// }
-
-// const hallsAnimation=document.getElementById('hallsAnimation');
-
-// window.addEventListener("load", () => {
-//   hallsAnimation.play()
-// });
-
-// const buttonHalls=document.getElementById('buttonHalls');
-
-// buttonHalls.onclick=function(){
-
-//   window.location.href = './halls.html';
-
-// }
-
 
 
 const buttonPhotographers=document.getElementById('buttonPhotographers');

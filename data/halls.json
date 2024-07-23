@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "img": "./pictures/אולמותארועים/אולמי אוליאן.jpg",
+        "img": "../assest/pictures/אולמותארועים/אולמי אוליאן.jpg",
         "name": "אולמי אוליאן",
         "map":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3386.2414019927983!2d35.044747124487955!3d31.927202774030274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502d29f13543247%3A0xfaef61e5ece672f4!2z157XodeZ15zXqiDXmdeV16HXoyA1NCwg157XldeT15nXoteZ158g16LXmdec15nXqg!5e0!3m2!1siw!2sil!4v1690229987207!5m2!1siw!2sil" ,
         "numOfChairs":"400",
@@ -14,7 +14,7 @@
     },
     {
         "id": "2",
-        "img": "./pictures/אולמותארועים/אולמי גלוריה.jpg",
+        "img": "../assest/pictures/אולמותארועים/אולמי גלוריה.jpg",
         "name": "אולמי גלוריה",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3386.105510293261!2d35.04608862448767!3d31.93089267402866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502d2a190770601%3A0x6e399f87f65fc657!2z16jXl9eV15Eg15fXpNelINeX15nXmdedIDIyLCDXnteV15PXmdei15nXnyDXoteZ15zXmdeq!5e0!3m2!1siw!2sil!4v1690231358062!5m2!1siw!2sil" ,
         "numOfChairs":"350",
@@ -27,7 +27,7 @@
     },
     {
         "id": "3",
-        "img": "./pictures/אולמותארועים/אולני בנסטל.jpg",
+        "img": "../assest/pictures/אולמותארועים/אולני בנסטל.jpg",
         "name": "אולמי בנסטל",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.4263908126622!2d35.18883942449379!3d31.78612737409341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502d64c9251dfab%3A0xda7f5045ecb230c8!2z15HXmdeqINeU15PXpNeV16EsINeZ16jXldep15zXmded!5e0!3m2!1siw!2sil!4v1690231490201!5m2!1siw!2sil",
         "numOfChairs":"450",
@@ -40,7 +40,7 @@
     },
     {
         "id": "4",
-        "img": "./pictures/אולמותארועים/ארמון הקסטיליה.jpg",
+        "img": "../assest/pictures/אולמותארועים/ארמון הקסטיליה.jpg",
         "name": "ארמון הקסטיליה",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.423680122227!2d35.18586962449374!3d31.786201274093358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502d64d38bb120f%3A0x1de10dec2958d5f7!2z15DXldec157XmSDXkNeo157Xldeg15XXqiDXkNeV16g!5e0!3m2!1siw!2sil!4v1690231719238!5m2!1siw!2sil" ,
         "numOfChairs":"650",
@@ -53,7 +53,7 @@
     },
     {
         "id": "5",
-        "img": "./pictures/אולמותארועים/בוסתני הלוריאל.jpg",
+        "img": "../assest/pictures/אולמותארועים/בוסתני הלוריאל.jpg",
         "name": "בוסתני הלוריאל",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3380.6422266413915!2d34.841685424481625!3d32.078924173963166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4a3d91cdfc47%3A0xe06aaaaa2fcdb2ee!2z16nXnNee15Qg15TXntec15osINeR16DXmSDXkdeo16c!5e0!3m2!1siw!2sil!4v1690231774454!5m2!1siw!2sil",
         "numOfChairs":"300",
@@ -66,7 +66,7 @@
     },
     {
         "id": "6",
-        "img": "./pictures/אולמותארועים/גני הסוגפנית.jpg",
+        "img": "../assest/pictures/אולמותארועים/גני הסוגפנית.jpg",
         "name": "גני הסוגפנית",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13578.048298122347!2d35.122410244112864!3d31.70190413609835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502dbfa57125a4f%3A0x2d45eaaf6ebc1a0b!2z15HXmdeq16gg16LXmdec15nXqg!5e0!3m2!1siw!2sil!4v1690231822771!5m2!1siw!2sil",
         "numOfChairs":"500",
@@ -79,7 +79,7 @@
     },
     {
         "id": "7",
-        "img": "./pictures/אולמותארועים/חצר מג'סטיק.jpg",
+        "img": "../assest/pictures/אולמותארועים/חצר מג'סטיק.jpg",
         "name": "חצר מג'סטיק",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3386.168270662125!2d35.04113592448778!3d31.929188574029357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502cde546caa8eb%3A0x9bdd5668572075fb!2z16HXnteZ16DXqCDXpNeV15nXqNep15jXmdeZ158!5e0!3m2!1siw!2sil!4v1690231906521!5m2!1siw!2sil" ,
         "numOfChairs":"280",
@@ -92,7 +92,7 @@
     },
     {
         "id": "8",
-        "img": "./pictures/אולמותארועים/גני סטרבורסט.jpg",
+        "img": "../assest/pictures/אולמותארועים/גני סטרבורסט.jpg",
         "name": "גני סטרבורסט",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54297.068594957505!2d35.030847764613426!3d31.72772687434947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502c45df5bbfddf%3A0xe0072a5512fbef38!2z15HXmdeqINep157XqQ!5e0!3m2!1siw!2sil!4v1690232062661!5m2!1siw!2sil",
         "numOfChairs":"700",
@@ -105,7 +105,7 @@
     },
     {
         "id": "9",
-        "img": "./pictures/אולמותארועים/ארמון לוקספין.jpg",
+        "img": "../assest/pictures/אולמותארועים/ארמון לוקספין.jpg",
         "name": "ארמון לוקספין",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108169.92185790914!2d34.87964738427235!3d32.08790483176603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4ca6193b7c1f%3A0xc1fb72a2c0963f90!2z16rXnCDXkNeR15nXkS3Xmdek15U!5e0!3m2!1siw!2sil!4v1690232152215!5m2!1siw!2sil",
         "numOfChairs":"420",
@@ -118,7 +118,7 @@
     },
     {
         "id": "10",
-        "img": "./pictures/אולמותארועים/אחוזת סנדרבלזיה.jpg",
+        "img": "../assest/pictures/אולמותארועים/אחוזת סנדרבלזיה.jpg",
         "name": "אחוזת סנדרבלזיה",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13526.456204979735!2d34.96671429387831!3d32.05263658359238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d33f876400d9f%3A0x7b7e056addf5efc9!2z15DXnNei15M!5e0!3m2!1siw!2sil!4v1690232205466!5m2!1siw!2sil" ,
         "numOfChairs":"400",
@@ -131,7 +131,7 @@
     },
     {
         "id": "11",
-        "img": "./pictures/אולמותארועים/לוטוס האופל.jpg",
+        "img": "../assest/pictures/אולמותארועים/לוטוס האופל.jpg",
         "name": "לוטוס האופל",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53841.90187442212!2d34.99793442107744!3d32.49625197865518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d0cf83a10b203%3A0x4ac5521593cfcdcb!2z16fXmdeh16jXmdeU!5e0!3m2!1siw!2sil!4v1690232253909!5m2!1siw!2sil",
         "numOfChairs":"350",
@@ -144,7 +144,7 @@
     },
     {
         "id": "12",
-        "img": "./pictures/אולמותארועים/אחוזת ריגל.jpg",
+        "img": "../assest/pictures/אולמותארועים/אחוזת ריגל.jpg",
         "name": "אחוזת ריגל",
         "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d221963.93820518444!2d35.11887751756579!3d29.627325088342886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x150071e324795e0b%3A0xfe1d95f85577f6db!2z15DXmdec16o!5e0!3m2!1siw!2sil!4v1690232308810!5m2!1siw!2sil",
         "numOfChairs": "600",

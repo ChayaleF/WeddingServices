@@ -1,11 +1,3 @@
-
-// const image = new Image();
-// image.src = './pictures/טבעות/1.jpg'; // Replace 'image-url' with the actual image URL
-
-// image.onload = function() {
-//   const isFromAnotherDomain = !!this.crossOrigin;
-//   console.log('Is the image from another domain?', isFromAnotherDomain);
-// };
 const invitations=JSON.parse(localStorage.getItem('invitations'))
 console.log(invitations);
 const downloadButton = document.getElementById('download-button');

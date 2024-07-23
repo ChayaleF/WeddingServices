@@ -1,4 +1,5 @@
-let imgChoose='./pictures/רקעים מעודכן/1.jpg';
+let imgChoose='../assest/pictures/רקעים מעודכן/1.jpg';
+
 let idImg=3;
 let prevButton = null;
 
@@ -9,7 +10,7 @@ const loadPictures = () => {
   let p = $.ajax({
     
       method: 'GET',
-      url: './invitation.json',
+      url: '../data/invitation.json',
       
       success: (data) => {
 
@@ -147,18 +148,15 @@ let arrKalaGrands=[];
 const usersI=JSON.parse(localStorage.getItem('users')) ;
 const userI=JSON.parse(sessionStorage.getItem('user'));
 let isTrue = false;
-let indexInvitation=(ThisUser(usersI[userI].name,usersI[userI].password));
-console.log(indexInvitation);
+let indexInvitation=(ThisUser(usersI[userI]?.name,usersI[userI]?.password));
 
 if(indexInvitation===null)
 {
   isTrue=false;
   console.log(isTrue);
 }
-
 else
 {
-  console.log(isTrue);
   isTrue=true;
   old.dateOfTheWedding.value=invitations[indexInvitation].dateOfTheWedding;
   old.nameOfKala.value=invitations[indexInvitation].nameOfKala;
