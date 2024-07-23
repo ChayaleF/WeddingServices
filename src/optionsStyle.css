@@ -1,0 +1,95 @@
+body{
+    overflow: auto; 
+}
+
+
+.title{
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Tahoma;
+}
+.k{
+    display: flex;
+    gap: 10%;
+}
+.p{
+    margin: 0%;
+
+}
+/* .div-picture{
+    border-color: rgb(150, 126, 5);
+    padding: 2%;
+    border-style: solid;
+
+} */
+p{
+    overflow: initial;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* #idHall{
+
+    border-color: black;
+    border-style: solid; 
+    background-color: rgb(43, 42, 42);
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-10%, -50%);
+    z-index: 3;
+} */
+
+#idHall {
+
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(43, 42, 42);
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-10%, -50%);
+    width: calc(50% - 2px);
+    /* height: auto; */
+    z-index: 3;
+    max-height: 100vh;
+    /* min-height: 100vh; */
+    overflow-y: auto;
+
+}
+::-webkit-scrollbar{
+    width: 0%;
+}
+
+#buttonN {
+
+    position: fixed;
+    left: 0%;
+    top: 1%;
+
+}
+
+.titleDetails {
+    color: white;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: rgb(251, 244, 178);
+}
+
+
+
+.div-picture {
+
+    flex: 0 0 150px;
+    background-color: #f2f2f2;
+    padding: 8px;
+    margin: 3px;
+    
+}

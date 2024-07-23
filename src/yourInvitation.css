@@ -1,0 +1,90 @@
+.imgBackground{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3%;
+}
+#download-button{
+
+    position: fixed;
+    left: 30px;
+    top: 30px;
+}
+.flex{
+
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+#divBoth{
+
+    margin: 8%;
+}
+
+#divFront{
+
+    padding-top: 2.5%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-10%, -50%) rotate(0);
+    box-shadow: 6px 4px 4px rgba(56, 50, 50, 0.281);
+    z-index: 2;
+}
+
+#divBack{
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-90%, -45%) translateY(-10%) rotate(-7deg);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+    z-index: 1;
+    font-family:'Times New Roman', Times, serif;
+  
+   
+}
+
+.height{
+
+    width: 320px;
+    height: 450px;
+}
+
+.width{
+
+    width: 450px;
+    height: 320px;
+}
+.width>p{
+
+    margin: 0%;
+}
+/* p{
+    margin: 1.5%;
+
+} */
+
+#nahale{
+
+    /* display: inline-block;
+    /* shape-outside: ellipse(50% 100% at 50% 0%); */
+    /* clip-path: ellipse(50% 100% at 50% 0%); */
+    transform:rotate(-7deg,0,0,-7deg) ;
+}
+
+p{
+
+    font-size: 12px;
+    font-weight: bold;
+}
+#download-button{
+    background:none;
+    border: none;
+    color: white;
+    font-size: x-large;
+    position: fixed;
+    top: 4%;
+    left: 3%;
+}

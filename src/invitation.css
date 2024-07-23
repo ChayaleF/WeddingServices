@@ -1,0 +1,68 @@
+.inputDetails{
+    /* border-color: rgb(150, 126, 5) ; */
+    background-color:rgb(34, 34, 34);
+    width: 300px;
+    height: 60px;
+    color: rgb(250, 248, 248);
+    border:2px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
+    
+}
+#picturesInLength>button,
+#picturesInWidth>button{
+    border-style: none;
+    background: none;
+
+}
+/* #picturesInWidth{
+
+    position: relative;
+    overflow: hidden;
+} */
+
+
+#picturesInLength,
+#picturesInWidth{
+
+    display: flex;
+    overflow: scroll;
+    scroll-snap-type: x mandatory;
+    
+}
+/* #choosePictures::-webkit-scrollbar{
+    display: none;
+} */
+
+
+
+#scroll-left-button,
+#scroll-right-button 
+{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 70px;
+  height: 1000px;
+  /* Additional styles */
+}
+#scroll-left-button
+{
+    left: 10px;
+}
+#scroll-right-button
+{
+    right: 10px;
+}
+
+#scroll{
+    position: relative;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar{
+    width: 0%;
+}
+
+

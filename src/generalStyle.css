@@ -1,0 +1,178 @@
+body{
+    background-color:black ;
+    color: rgb(150, 126, 5);
+    direction: rtl;
+    margin-top: 22%;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: Segoe UI;
+    /* font-family: Aharoni; */
+}
+
+/*ניווט עליון */
+.top-nav
+{
+    background-color: black;
+    width: 100%;
+    top: 0px !important;
+    z-index: 3;
+    position: fixed;
+    background-position: center;
+    background-color: black;
+    /* font-weight: bold; */
+}
+
+#titleNav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#timer>div>p{
+    padding: 0px;
+    margin: 0px !important;
+}
+
+#timer>div{
+    background-color:rgb(54, 53, 53) ;
+}
+
+#timer{
+    display: flex;
+    gap: 10%;
+    margin-left: 50px;
+    align-items: center;
+}
+
+#nav{
+    background-color: rgb(25, 25, 25);
+    display: flex; 
+    justify-content: space-between;
+}
+
+#nav-page{
+    display: flex;
+    gap: 60px;
+
+}
+li{
+    list-style: none;
+}
+
+#user-name-top{
+    display: flex;
+}
+#user-name-top>i{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    align-self: center;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+/* כללי */
+
+.link{
+    text-decoration-line: none;
+    text-justify:distribute ;
+    word-wrap: nowrap;
+    display: flex;
+}
+
+.gold{
+    color:  rgb(150, 126, 5);
+}
+
+.pictures-general{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 8%;
+}
+
+.inputForm{
+    background-color: rgb(16, 16, 16);
+    width: 300px;
+    height: 60px;
+    color: rgb(158, 158, 158);
+}
+
+#title{
+    width: 120px;
+}
+
+.flex{
+    display: flex;
+    gap: 5%;
+}
+.flex>p{
+
+    width: 10%;
+}
+#titlesUsers>p{
+
+    font-weight: bold;
+}
+
+#emailButton2{
+    background:none;
+    border: none;
+    text-decoration-line: underline;
+}
+
+/* קישור תחתון לכל העמודים */
+.flexForm{
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+}
+
+#emailButton{
+    background-color: black;
+    border: none;
+    text-decoration-line: underline;
+}
+#emailButton2{
+    background:none;
+    border: none;
+    text-decoration-line: underline;
+}
+#photographersLink{
+    border: none;
+    background: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:medium;
+}
+#forLittleWindow{
+    z-index: 500;
+    position: fixed;
+    visibility: hidden;
+    border: 1px solid black;
+    padding: 20px;
+    width: 100%;
+    margin-left: auto;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: black;
+    color: rgb(150, 126, 5);
+  
+}
+
+#forLittleWindow>img{
+    width: 200px;
+    height: 200px;
+   top: 15%;
+   text-align: center;
+}
+@media screen and (min-width:64px) and (max-width:1000px)
+{
+    body{
+        visibility: hidden;
+
+    }
+    #forLittleWindow{
+        visibility: visible;
+
+    }
+}

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./ספריית אייקונים - font awesome/fontawesome-free-5.12.0-web/fontawesome-free-5.12.0-web/css/all.css">
+    <link rel="stylesheet" href="./invitation.css">
+    <link rel="stylesheet" href="./generalStyle.css">
+    <title>invitation</title>
+</head>
+
+
+<div id="forLittleWindow">
+    <img src="./pictures/צילום מסך 2023-08-30 171806.png" alt="">
+<p >
+    האתר שלנו נבנה בהוראת ובהדרכת רבנים חשובים ,<br>
+     ולפי הוראותיהם השימוש באתר שלנו לבעלי סמארטפון ודומיו אסור בהחלט .<br>
+     עמכם הסליחה...  
+</p>
+
+</div>
+<body>
+
+    <div class="top-nav">
+
+        <div id="titleNav">
+            <img src="./pictures/Logo Proyecto Tehila v1.2_ Julio 2023.png" id="title">
+             <h1 class="center" >your wedding</h1>
+             <div id="timer">
+                <div >
+                    <p id="sec"></p>
+                    <p>שניות</p>
+                </div>
+                <div>
+                    <p id="min"></p>
+                    <p>דקות</p>
+                </div>
+                <div>
+                    <p id="hou"></p>
+                    <p>שעות</p>
+                </div>
+                <div>
+                    <p id="da"></p>
+                    <p>ימים</p>
+                </div>
+             </div>
+        </div>
+        <hr>
+        <div id="nav">
+
+            <ul id="nav-page">
+
+                <li><a href="./home.html" class="gold link text_size_s">בית</a></li>
+                <li><a href="./halls.html" class="gold link text_size_s">אולמות </a></li>
+                <li><button id="photographersLink" class="gold link">צלם ארועים</button></li>
+                <li><a href="./weddingDresses.html" class="gold link text_size_s">שמלות כלה</a></li>
+                <li><a href="./invitation.html" class="gold link text_size_s">לעיצוב הזמנה</a></li>
+                <li><a href="./conect.html" class="gold link text_size_s">להתחברות</a></li>
+
+            </ul>
+
+            <div id="user-name-top">
+
+                <p id="userNav">user</p>
+                <i class="fas fa-user"></i>
+
+            </div>
+
+        </div>
+        <hr>
+    </div>
+
+    <form action="./yourinvitation.html" class="gold">
+
+        <h1></h1>
+
+        <div >
+            <label for="nameGroom" class="">שם החתן</label>
+           <input type="text" placeholder="אברהם" id="nameGroom" required class="inputDetails gold">
+           <label for="nameKala">שם הכלה</label>
+           <input type="text" placeholder="שרה" id="nameKala" required class="inputDetails gold">
+
+           <p>אב החתן:</p>
+           <label for="nameFatherOfGroom">שם פרטי</label>
+           <input type="text" placeholder="ישראל" id="nameFatherOfGroom" required class="inputDetails">
+           <label for="nameFamelyFatherOfGroom">שם משפחה</label>
+           <input type="text" placeholder="ישראלי" id="nameFamelyFatherOfGroom" required class="inputDetails">
+
+           <p>אב הכלה:</p>
+           <label for="nameFatherOfKala">שם פרטי</label>
+           <input type="text" placeholder="ישראל" id="nameFatherOfKala" required class="inputDetails">
+           <label for="nameFamelyFatherOfKala">שם משפחה</label>
+           <input type="text" placeholder="ישראלי" id="nameFamelyFatherOfKala" required class="inputDetails">
+
+           <br>
+           <br>
+
+           <div id="numOfGrandsGroom">
+
+                <label for="plusgrandgroom">מספר סבים וסבתות של החתן</label>
+                <button type="button" id="plusgrandgroom">+</button>
+                <button type="button" id="minusgrandgroom">-</button>
+                <br>
+                <!-- <input type="number"  id="numberGrandsOfGroom" required min="0" max="6" class="inputDetails gold"> -->
+                
+
+                <!-- <button type="button" id="submitNumberOfGrandms" class="inputDetails gold">אישור מספר הסבים</button > -->
+           </div>
+           <div id="numOfGrandsKala">
+            <label for="plusgrandkala">מספר סבים וסבתות של הכלה</label>
+                <button type="button" id="plusgrandkala">+</button>
+                <button type="button" id="minusgrandkala">-</button>
+
+                <!-- <input type="number"  id="numberGrandsOfKala" required min="0" max="6" class="inputDetails gold"> -->
+                <br>
+                <br>
+                
+           </div>
+           <br>
+           <br>
+
+           <label for="DateOfWedding">תאריך החתונה</label>
+           <input type="date" name="" id="DateOfWedding" required class="inputDetails gold">
+           <label for="timeOfWedding">שעת החופה</label>
+           <input type="time" name="" id="timeOfWedding" required class="inputDetails gold">
+
+           <br>
+           <br>
+
+           <label for="yourHall">שם האולם</label>
+
+           <select name="" id="yourHall" class="inputDetails gold">
+                <option>בחר אולם</option>
+                <option> אולמי אוליאן</option>
+                <option>אולמי בנסטל</option>
+                <option>אולמי גלוריה</option>
+                <option>ארמון הקסטיליה</option>
+                <option>גני הסוגפנית</option>
+                <option>בוסתני לוריאל</option>
+                <option>ארמון לוקספין</option>
+                <option>אחוזת סנדרבלזיה</option>
+                <option>גני סטארבורסט</option>
+                <option>אחוזת ריגל</option>
+                <option>חצר מג'סטיק</option>
+                <option>לוטוס האופל</option>
+           </select>
+
+           <br>
+           <br>
+
+           <label for="">צבע כתב ורקע:</label>
+
+           <input type="radio" id="blackR" name="radioGroup" value="option1">
+           <label for="radio1">שחור</label>
+               
+           <input type="radio" id="goldR" name="radioGroup" value="option2">
+           <label for="radio2">זהב</label>
+               
+           <input type="radio" id="whiteR" name="radioGroup" value="option3">
+           <label for="radio3">לבן</label>
+
+           <br>
+           <br>
+
+        </div>
+        <div id="a">
+            <div id="choosePictures">
+                <div id="scroll">
+                    <div id="picturesInWidth">
+                        <button id="scroll-left-button" type="button" class="gold">&lt;</button>
+                        <button id="scroll-right-button" type="button" class="gold">&gt;</button>
+                    </div>
+                    
+                    
+                </div>
+        
+                <br><br>
+                    <div id="picturesInLength">
+                   
+                    </div>
+                
+            </div>
+           
+        </div>
+        
+
+        <button type="submit" id="submitForm">אישור עיצוב ההזמנה</button class="inputDetails">
+
+    </form>
+    <hr>
+    <div class="flexForm">
+        <div >
+            <i class="fas fa-envelope"></i>
+            <h3>אימייל</h3>
+            <button id="emailButton" class="gold">yourWedding@gmail.com</button>
+        </div>
+
+        <div>
+            <i class="fas fa-phone"></i>
+            <h3>טלפון</h3>
+            <span> 0556728176 ,</span>
+            <span>0548472959</span>
+        </div>
+
+        <div >
+            <i class="fas fa-home"></i>
+            <h3>כתובת</h3>
+            <span>נתיבות המשפט 111<br />
+                מודיעין עילית<br />
+                ישראל</span>
+        </div>
+    </div>
+</body>
+<script src="./jquery-3.6.4.min.js"></script>
+<script src="./invitation.js"></script>
+<script src="./general.js"></script>
+</html>
