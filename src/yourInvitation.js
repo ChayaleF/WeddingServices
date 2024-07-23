@@ -60,7 +60,7 @@ return updatedDate;
 
 const data=JSON.parse(localStorage.getItem("data"));
 
-console.log(data.type );
+//console.log(data.type );
 const body=document.querySelector('body');
 body.style.color=data.color;
 body.style.backgroundColor=data.color;

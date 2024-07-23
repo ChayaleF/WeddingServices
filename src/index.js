@@ -1,5 +1,5 @@
 
-const prevUrl="index.html";
+const prevUrl="../index.html";
 sessionStorage.setItem('prevUrl',prevUrl);
 
 
